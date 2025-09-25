@@ -1,4 +1,4 @@
 Fitur 1 :
--Membuat tampilan form login dan register
-- Menambahkan validasi untuk tiap-tiap input di dalam forum
+- Membuat tampilan form login dan register
 - Menambahkan dengan membuat fungsionalitas untuk tiap tiap form
+- Menambahkan icon-icon untuk setiap input form
